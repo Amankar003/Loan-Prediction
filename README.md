@@ -84,26 +84,18 @@ Loan-Prediction/
 ## ▶️ How to Run Locally
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Amankar003/Loan-Prediction.git
+   - git clone https://github.com/Amankar003/Loan-Prediction.git
    cd Loan-Prediction
-````
 
 2. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
+   - pip install -r requirements.txt
 
 3. **Launch Jupyter Notebook**
-
-   ```bash
-   jupyter notebook Loan_Prediction.ipynb
-   ```
+   - jupyter notebook Loan_Prediction.ipynb
 
 ---
 
-## ✅ Future Improvements
+ ## ✅ Future Improvements
 
 * Add GUI using Streamlit or Flask
 * Use advanced ML models (Random Forest, XGBoost)
